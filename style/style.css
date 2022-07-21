@@ -254,9 +254,18 @@ background-color: red;
 
   margin: 5px;
 }
+
 .fa-address-card{
 
   margin: 5px;
+
+}
+
+/* 2nd web page */
+
+.flex{
+display:inline-flex;
+padding: 100px;
 
 }
 
