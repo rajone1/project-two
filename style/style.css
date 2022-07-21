@@ -249,9 +249,17 @@ margin: 10px;
 
 .button-decor:hover{
 background-color: red;
+}
+.fa-eye{
 
+  margin: 5px;
+}
+.fa-address-card{
+
+  margin: 5px;
 
 }
+
 
 
 
